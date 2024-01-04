@@ -1,2 +1,5 @@
 Hii 
-This is a sample test file.
+This is a sample test file.Just added feature1 changes 
+new line by feature1
+new line by feature1
+
