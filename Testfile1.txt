@@ -7,4 +7,5 @@ This is a sample test file.Just added feature1 changes
 new line by feature1
 new line by feature1
 added by feature 1
+line by feature 2
 
