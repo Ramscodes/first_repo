@@ -1,1 +1,2 @@
 This file is created by feature 2.
+line by feature 2
